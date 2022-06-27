@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/yukjbkikj/go.png)](https://heroku.com/yukjbkikj)
 
 > 1. 服务端部署后，应`open app` ，显示`404 page not found`，表示部署成功。
 
@@ -15,7 +15,7 @@
 
 ### 附加
 
-> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/kaixuan1115/gost-heroku/)。
+> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/yukjbkikj/go/)。
 
 ### 参考 
 *https://github.com/ginuerzh/gost*
